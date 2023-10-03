@@ -66,7 +66,7 @@ listaCurso.map((curso)=>{
         <div class="card-body">
           <h5 class="card-title">${curso.nome}</h5>
           
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <a href="#" class="btn btn-primary">Saiba mais</a>
         </div>
       </div>`
 })
